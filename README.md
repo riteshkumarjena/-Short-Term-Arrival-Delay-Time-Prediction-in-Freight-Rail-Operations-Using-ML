@@ -1,4 +1,4 @@
-# -Short-Term-Arrival-Delay-Time-Prediction-in-Freight-Rail-Operations-Using-ML
+# Short-Term-Arrival-Delay-Time-Prediction-in-Freight-Rail-Operations-Using-ML
 # Short-Term Arrival Delay Time Prediction in Freight Rail Operations Using Data-Driven Models
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/)
